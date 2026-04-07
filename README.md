@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">
-  <em>"Turning Logic into Efficient Code"</em>
-</p>
+
 
 </div>
 
